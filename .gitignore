@@ -1,0 +1,14 @@
+# Ignore model checkpoints
+results/fine_tuned_bert/
+
+# Ignore large datasets
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+env/
+venv/
